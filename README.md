@@ -70,7 +70,7 @@ This project:
 
 ### 🔗 Developer Contact
 
-**Developer:** Your Name  
-**GitHub:** https://github.com/yourusername  
+**Developer: Guntapally Chaitan Reddy
+**GitHub:** https://github.com/chaitan12 
 **Project:** AI Furniture AR Agent  
 **Purpose:** API integration testing & AR visualization prototype
